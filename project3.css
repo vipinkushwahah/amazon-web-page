@@ -1,0 +1,91 @@
+body {
+background-color:whitesmoke;
+}
+.main {
+      border:2px solid black;
+      display: flex;
+      
+}
+.image {
+      border: 1px solid rgb(248, 244, 243);
+      margin: 20px 30px 20px 20px;
+      background-color: rgb(252, 248, 247);
+} 
+.bank {
+      display: flex;
+}
+.bank1 {
+      border: 1px solid rgb(228, 224, 224);
+      margin-left: 10px;
+      margin-right: 10px;
+      background-color: rgb(238, 235, 235);
+}
+.bank2 {
+      border: 1px solid whitesmoke;
+      background-color: rgb(238, 235, 235);
+      margin-right:10px;
+}
+.hadding1 {
+      font-size:34px;
+}
+.questions {
+      border-bottom: 2px solid black;
+      width: 500px;
+}
+.great {
+     border: 1px solid brown;
+     background-color: brown;
+     padding: 5px;
+     width: 150px;
+     color: white;
+}
+.rate {
+      text-decoration: line-through;
+}
+.size {
+      font-size: 30px;
+}
+.color {
+      color: red;
+}
+select {
+      border: 0px;
+}
+label {
+      color: rgb(39, 139, 192);
+}
+.size3 {
+      border: 1px solid orangered;
+      border-bottom-right-radius: 50px ;
+      background-color: orangered;
+      padding: 5px;
+      width: 80px;  
+}
+.offer1 {
+      border-bottom: 2px solid black;
+      border-top: 2px solid black;
+      padding: 7px;
+      margin: opx;
+      font-size: 20px;
+}
+h5 {
+      font-size: 15px;
+}
+.size2 {
+      font-size: 15px;
+}
+.img {
+      border: 1px solid black;
+      width: 250px;
+}
+.vipin {
+      border-top: 2px solid black;
+      
+}
+.img2 {
+      gap: 15px;
+}
+
+
+
+       
